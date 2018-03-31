@@ -1,0 +1,32 @@
+[19-Sep-2017 14:59:33 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 15:00:02 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 16:50:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 16:50:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 16:50:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 26
+[19-Sep-2017 16:50:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 28
+[19-Sep-2017 16:50:39 UTC] PHP Notice:  Undefined index: avatar in /home/stiropor/public_html/log/index.php on line 31
+[19-Sep-2017 16:50:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 31
+[19-Sep-2017 16:50:39 UTC] PHP Notice:  Undefined index: avatar in /home/stiropor/public_html/log/index.php on line 33
+[19-Sep-2017 16:50:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 16:52:54 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 16:52:54 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 26
+[19-Sep-2017 16:52:54 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 28
+[19-Sep-2017 16:52:54 UTC] PHP Notice:  Undefined index: avatar in /home/stiropor/public_html/log/index.php on line 31
+[19-Sep-2017 16:52:54 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 31
+[19-Sep-2017 16:52:54 UTC] PHP Notice:  Undefined index: avatar in /home/stiropor/public_html/log/index.php on line 33
+[19-Sep-2017 21:03:03 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:04:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:04:15 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:04:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 25
+[19-Sep-2017 21:04:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 27
+[19-Sep-2017 21:04:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 40
+[19-Sep-2017 21:08:15 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:08:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/stiropor/public_html/log/index.php on line 37
+[19-Sep-2017 21:08:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/stiropor/public_html/log/index.php on line 37
+[19-Sep-2017 21:09:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:09:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:09:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stiropor/public_html/log/index.php on line 15
+[19-Sep-2017 21:09:23 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 25
+[19-Sep-2017 21:09:23 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 27
+[19-Sep-2017 21:09:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 36
+[19-Sep-2017 21:09:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/stiropor/public_html/log/index.php on line 37

@@ -1,0 +1,54 @@
+html {
+    background: black;
+    
+}
+@font-face{
+    
+    font-family:kase;
+    src:url('font/Exo-SemiBold.ttf');
+
+}
+
+body {
+    
+   color: blue;
+    font-family:kase;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    
+    padding: 2em 2em 4em;
+    
+}
+
+.gule{
+    border: 2px solid magenta;
+    
+}
+
+table{
+   
+    border: 1px solid white;
+   /* border-collapse: collapse;
+    */
+    
+}
+
+#ki{
+    
+    /*  border: 1px solid yellow;
+    color: bisque; */
+}
+
+td{
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+#li{
+    color: magenta;
+    
+    
+}

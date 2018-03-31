@@ -1,0 +1,45 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>POSTTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive POSTting started guide for Brackets.">
+        <link rel="stylesheet" type="text/css" href="stipp.css">
+       <script>
+        
+     function selectall(source) {
+  checkboxes = document.getElementsByName('foo');
+  for(var i=0, n=checkboxes.length;i<n;i++) {
+    checkboxes[i].checked = source.checked;
+  }
+}
+        
+        </script>
+        
+            
+        
+    </head>
+    <body>
+         
+        <br>
+        
+        
+        <div class="wrap">
+       <input type="checkbox" onClick="selectall(this)"/>Select All<br/>
+<input type="checkbox" name="foo" value="make">Make<br/>
+<input type="checkbox" name="foo" value="model">Model<br/>
+<input type="checkbox" name="foo" value="descr">Description<br/>
+<input type="checkbox" name="foo" value="startYr">Start Year<br/>
+<input type="checkbox" name="foo" value="endYr">End Year<br/>
+     </div>
+        
+        <br>
+        
+        
+   </body>
+       </html>
