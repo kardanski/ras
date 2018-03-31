@@ -15,6 +15,6 @@ $sql = "DROP TABLE $name";
                 }
 
 
-
+#komm
 
 ?>
